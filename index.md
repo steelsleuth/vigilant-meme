@@ -1,3 +1,8 @@
 ## Welcome to my Blog
 
-Not too much is here.
+This is the personal blog of a security researcher who is fond of buying too many books.
+
+
+## Articles
+*8/8/2021* | [Organizing Bookmarks and Asking Questions](https://steelsleuth.github.io/vigilant-meme/Organizing-Bookmarks) 
+
