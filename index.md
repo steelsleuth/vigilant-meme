@@ -14,6 +14,6 @@ I plan to publish an article each week on a variety of topics, primarily surroun
 - Projects related to identifying threat groups
 
 ## Articles
-*8/14/21* | [An Overview of MITRE](https://steelsleuth.github.io/vigilant-meme/MITRE)
-*8/8/2021* | [Organizing Bookmarks and Asking Questions](https://steelsleuth.github.io/vigilant-meme/Organizing-Bookmarks) 
+- *8/14/21* | [An Overview of MITRE](https://steelsleuth.github.io/vigilant-meme/MITRE)
+- *8/8/2021* | [Organizing Bookmarks and Asking Questions](https://steelsleuth.github.io/vigilant-meme/Organizing-Bookmarks) 
 
