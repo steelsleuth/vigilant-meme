@@ -13,3 +13,7 @@ The MITRE Cyber Analytics Repository holds analytics derived from MITRE ATT&CK. 
 ## MITRE SHIELD
 
 MITRE SHIELD is an active defense knowledge base. It is designed to provides tactics and techniques for engaging with an adversary that is within a network. A common example of this is the honeypot (or honeyfile) that no user would normally visit unless they had malicious intentions. By interacting with that trap, the defenders are now alerted to an adversary within their network. Like how adversaries use TTPs, defenders have Opportunities, Use Cases, and Procedures. 
+
+## Thoughts
+
+Looking at each of these resources, it is clear MITRE has brought forth a wealth of knowledge to the industry. Red and blue teams can greatly learn from these techniques and contribute their own findings. One thing I would like to see in the future is a timeline to see how TTPs for a threat group or malware change. As seen on Twitter and reported by Microsoft Security Intelligence, the BazarLoader malware has changed its delivery methods and is now seen in 3 separate campaigns. Building on this, I think an open-source TTP hub would also be beneficial, where anyone can upload a technique and their demo of it. This might become a project for me to look into later on.
