@@ -14,6 +14,9 @@ I plan to publish an article each week on a variety of topics, primarily surroun
 - Projects related to identifying threat groups
 
 ## Articles
+
+*9/4/2021* [Allstar Security & Tooling Updates](https://steelsleuth.github.io/vigilant-meme/Allstar-Security)
+
 *8/22/2021* [A New Adventure in Blue Teaming](https://steelsleuth.github.io/vigilant-meme/breaking-blue)
 
 *8/14/2021* [An Overview of MITRE](https://steelsleuth.github.io/vigilant-meme/MITRE)
