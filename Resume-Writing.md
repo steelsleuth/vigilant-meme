@@ -1,0 +1,8 @@
+# Resume Writing and Entry-Level Roles
+
+## Turn Your Hobbies Into Momentum
+
+Over the last few months, I have reviewed multiple entry-level cybersecurity resumes in community servers and for friends. Across all of them, I noticed several trends and common mistakes that reduce competitiveness while also making it challenging for companies to know your worth. I will first break down my resume reviewing process and how I evaluate your skills. 
+
+The first thing I do is I skim over the resume and see if anything is designed to catch my eye. Thee are skills, bullet points, or sections that are presented in a manner that demands your attention. I have two examples of share of good and bad eye-catchers. The first good one was a mid-level infpsec professional who had a traditional resume layout but they had 'buttons' on the bottom 3/4th of their resume that listed their high-level skills: Adversary Simulation, Configuration Assessment, Active Directory, etc. This gave me a quick snapshot of what sphere they reside in. I revert my eyes back to their job section and see bullets that quickly confirm that they are experienced with red teaming skills. However, I then went over a resume for a recent graduate. They had a giant colored column on their resume which listed over 20 skills and crammed all their jobs and other experience to the side. It was impossible to skim their resume because of this column so you had to focus on reading each line. They focused on listing every possible skill a job might look for, but offered no evidence to back up their claims. I came away not even knowing what they did in any of their roles or what they got out of their education. 
+
