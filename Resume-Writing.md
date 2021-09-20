@@ -57,9 +57,9 @@ When building out your resume, you should be able to skim it in under 30 seconds
 
 These are just a handful of tips I use to design my resume and help my friends, colleagues, and community members with theirs. I will be uploading 2 demo resumes to elaborate on the points above. 
 
-The ["ElonOrc" resume is now available](https://github.com/steelsleuth/vigilant-meme/blob/gh-pages/resources/ElonOrc.pdf). This resume highlights some common mistakes a new graduate might make. 
+The ["Elon Orc" resume is now available](https://github.com/steelsleuth/vigilant-meme/blob/gh-pages/resources/ElonOrc.pdf). This resume highlights some common mistakes a new graduate might make. 
 
-The ["HarrowBeesloft" resume is now available](https://github.com/steelsleuth/vigilant-meme/blob/gh-pages/resources/HarrowBeesloft.pdf). This resume highlights what I think a better graduate resume looks like. I built this with Google Docs so the spacing is not what I would personally use, but it gives you a good idea of how to transition from an "Elon Orc" into a rockstar cyber paladin that can get hired at any guild!
+The ["Harrow Beesloft" resume is now available](https://github.com/steelsleuth/vigilant-meme/blob/gh-pages/resources/HarrowBeesloft.pdf). This resume highlights what I think a better graduate resume looks like. I built this with Google Docs so the spacing is not what I would personally use, but it gives you a good idea of how to transition from an "Elon Orc" into a rockstar cyber paladin that can get hired at any guild!
 
 For reference, I used an edited version of [Awesome-CV](https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm). It makes editing and tracking your achievements easy, especially with [Overleaf](https://www.overleaf.com).
 
