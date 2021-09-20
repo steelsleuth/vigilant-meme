@@ -12,3 +12,6 @@ I will be gathering feedback over the next few weeks to pinpoint the main catego
 
 
 If you want to help me out, just let me know.
+
+
+## [Return to Blog](https://steelsleuth.github.io/vigilant-meme/)
