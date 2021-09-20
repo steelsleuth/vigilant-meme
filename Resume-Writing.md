@@ -55,7 +55,9 @@ When building out your resume, you should be able to skim it in under 30 seconds
 > - Working with supervisors to design security awareness training. 
 > - Created Powershell queries to detect SquirrelWaffle. 
 
-These are just a handful of tips I use to design my resume and help my friends, colleagues, and community members with theirs. I will be uploading 2 demo resumes later to elaborate on the points above. 
+These are just a handful of tips I use to design my resume and help my friends, colleagues, and community members with theirs. I will be uploading 2 demo resumes to elaborate on the points above. 
+
+The ["ElonOrc" resume is now available](https://github.com/steelsleuth/vigilant-meme/blob/gh-pages/resources/ElonOrc.pdf). This resume highlights some common mistakes a new graduate might make. 
 
 For reference, I used an edited version of [Awesome-CV](https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm). It makes editing and tracking your achievements easy, especially with [Overleaf](https://www.overleaf.com).
 
