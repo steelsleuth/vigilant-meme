@@ -12,6 +12,7 @@ I plan to reguarly publish articles on a variety of topics, primarily surroundin
 - [Sebastian Lague's Game Devlopment tutorial](https://www.youtube.com/watch?v=_cCGBMmMOFw&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw&index=1)
 
 ### Current Development Checklist
+
 | Project | Last Update | Notes | 
 | - | - | - |
 |[EmThreat](https://github.com/steelsleuth/EmThreat) | 8/19/2021| Planning 1.4 features (graphing) |
