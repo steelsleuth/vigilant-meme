@@ -37,3 +37,6 @@ One feature that was cut was Exploit-DB integration. There is a lot I want to do
 ## As always
 
 If you want to work on projects, open an issue and I will be notified. I have a variety of other projects I want to resume later on or even move on to new ones. I am currently learning Ruby to create web applications which will make future tools user friendly and easily adaptable to your environment.
+
+
+## [Return to Blog](https://steelsleuth.github.io/vigilant-meme/)
