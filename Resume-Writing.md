@@ -41,4 +41,20 @@ Good Example:
 - Built a network scanner in CS394 that was used to identify vulnerable ports in our department's network, assisted Sysadmin in patching and report writing.
 - Demonstrated knowledge of cybersecurity in CS442 where I built a script to extract Emotet payloads from maldocs, empowering our college's security team to block malicious websites faster while 18 other colleges ended up compromised. 
 
+## Style and Polish
 
+The worst thing I recieved recently was a neon-colored resumes, where just reading it hurts your eyes. A harsh bright color on top of a white background, with geometric obstructions in the same color scheme. The only time you should add color is for the section headers to highlight either the first letter or first word. They need to be designed to appear 'soft' and easy to read. 
+
+When building out your resume, you should be able to skim it in under 30 seconds and understand it. Each section should flow into the next. The easiest way is to organize your bullet points in increasing or decreasing length to keep the eyes moving. 
+
+Example:
+
+**Orcish Lounge Aviation** - *Security Analyst*
+- Responsible for monitoring 40 embedded systems and 200 workstations at the SOC while responding to SIEM alerts. 
+- Handling ticket escalations by performing initial triage on alerts and automating IoC collection.
+- Working with supervisors to design security awareness training and plan patch management.
+- Created Powershell queries to detect SquirrelWaffle loaders on a system.
+
+These are just a handful of tips I use to design my resume and help my friends, colleagues, and community members with theirs. I will be uploading 2 demo resumes later to elaborate on the points above. 
+
+For reference, I used an edited version of [Awesome-CV](https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm). It makes editing and tracking your achievements easy, especially with [Overleaf](https://www.overleaf.com).
