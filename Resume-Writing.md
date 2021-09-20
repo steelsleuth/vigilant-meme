@@ -50,10 +50,10 @@ When building out your resume, you should be able to skim it in under 30 seconds
 ### Example:
 
 > **Orcish Lounge Aviation** - *Security Analyst*
-> - Responsible for monitoring 40 embedded systems and 200 workstations at the SOC while responding to SIEM alerts. 
-> - Handling ticket escalations by performing initial triage on alerts and automating IoC collection. 
-> - Working with supervisors to design security awareness training and plan patch management. 
-> - Created Powershell queries to detect SquirrelWaffle loaders on a system. 
+> - Responsible for monitoring 40 embedded systems and 200 workstations at the SOC while. 
+> - Handling ticket escalations by performing initial triage on alerts. 
+> - Working with supervisors to design security awareness training. 
+> - Created Powershell queries to detect SquirrelWaffle. 
 
 These are just a handful of tips I use to design my resume and help my friends, colleagues, and community members with theirs. I will be uploading 2 demo resumes later to elaborate on the points above. 
 
