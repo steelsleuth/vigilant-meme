@@ -58,3 +58,5 @@ When building out your resume, you should be able to skim it in under 30 seconds
 These are just a handful of tips I use to design my resume and help my friends, colleagues, and community members with theirs. I will be uploading 2 demo resumes later to elaborate on the points above. 
 
 For reference, I used an edited version of [Awesome-CV](https://www.overleaf.com/latex/templates/awesome-cv/dfnvtnhzhhbm). It makes editing and tracking your achievements easy, especially with [Overleaf](https://www.overleaf.com).
+
+## [Return to Blog](https://steelsleuth.github.io/vigilant-meme/)
