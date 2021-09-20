@@ -17,3 +17,6 @@ MITRE SHIELD is an active defense knowledge base. It is designed to provides tac
 ## Thoughts
 
 Looking at each of these resources, it is clear MITRE has brought forth a wealth of knowledge to the industry. Red and blue teams can greatly learn from these techniques and contribute their own findings. One thing I would like to see in the future is a timeline to see how TTPs for a threat group or malware change. As seen on Twitter and reported by Microsoft Security Intelligence, the BazarLoader malware has changed its delivery methods and is now seen in 3 separate campaigns. Building on this, I think an open-source TTP hub would also be beneficial, where anyone can upload a technique and their demo of it. This might become a project for me to look into later on.
+
+
+## [Return to Blog](https://steelsleuth.github.io/vigilant-meme/)
