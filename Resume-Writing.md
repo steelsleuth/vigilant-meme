@@ -27,13 +27,13 @@ When I look at education, I want to see what you got from the last 4 years. It i
   - You can hotswap these out per application. 
 - Any other relevant takeways from the last 4 years.
 
-Bad Example:
+### Bad Example:
 
 **Darkhedge Coven College 2019**
 - Bachelor's of Science - Computer Science
 - Graduated Cum Laude 3.6 with a degree in our nationally accredited Computer Science program with a concentration in networking. Darkhedge's courses are highly practical with a focus on real-world examples. While I was a student here, I was involved in the coding club. 
 
-Good Example:
+### Good Example:
 
 **Breakridge Guild College 2020**
 - B.S in CS
@@ -47,13 +47,14 @@ The worst thing I recieved recently was a neon-colored resumes, where just readi
 
 When building out your resume, you should be able to skim it in under 30 seconds and understand it. Each section should flow into the next. The easiest way is to organize your bullet points in increasing or decreasing length to keep the eyes moving. 
 
-Example:
+### Example:
 
-**Orcish Lounge Aviation** - *Security Analyst*
-- Responsible for monitoring 40 embedded systems and 200 workstations at the SOC while responding to SIEM alerts. 
-- Handling ticket escalations by performing initial triage on alerts and automating IoC collection.
-- Working with supervisors to design security awareness training and plan patch management.
-- Created Powershell queries to detect SquirrelWaffle loaders on a system.
+| **Orcish Lounge Aviation** - *Security Analyst* |
+| - |
+| - Responsible for monitoring 40 embedded systems and 200 workstations at the SOC while responding to SIEM alerts. |
+| - Handling ticket escalations by performing initial triage on alerts and automating IoC collection. |
+| - Working with supervisors to design security awareness training and plan patch management. |
+| - Created Powershell queries to detect SquirrelWaffle loaders on a system. |
 
 These are just a handful of tips I use to design my resume and help my friends, colleagues, and community members with theirs. I will be uploading 2 demo resumes later to elaborate on the points above. 
 
