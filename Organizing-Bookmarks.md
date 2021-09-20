@@ -12,3 +12,6 @@ The desire to challenge yourself and grow as an individual is the primary drivin
 Circling back to the bookmarks, it is quite difficult to organize hundreds of links in a manner that is comprehensive. There are plenty of "awesome" lists out there with sprawling tables of contents. I find the best way forwards is to create topics for every link and then order then 'sequentially' in the order you want to learn them. This way you can swap between topics or continue the track you are already learning. 
 
 I am currently at 593 bookmarks, but I will hopefully curate this number down significantly. I will also be only curating 40 or so links each weekend to not overwhelm myself. Given my other projects, this seems like a good tradeoff. 
+
+
+## [Return to Blog](https://steelsleuth.github.io/vigilant-meme/)
