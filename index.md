@@ -1,4 +1,4 @@
-## Welcome to my Blog
+## Welcome to my Blog 🦆🖥️
 
 > [Resume Writing for Graduates](https://steelsleuth.github.io/vigilant-meme/Resume-Writing) is now published.
 
