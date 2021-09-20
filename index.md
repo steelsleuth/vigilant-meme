@@ -11,11 +11,17 @@ I plan to reguarly publish articles on a variety of topics, primarily surroundin
 - [Malware Unicorn's Workshops](https://malwareunicorn.org/#/workshops)
 - [Sebastian Lague's Game Devlopment tutorial](https://www.youtube.com/watch?v=_cCGBMmMOFw&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw&index=1)
 
+### Current Development Checklist
+
+| Project | Last Update | Notes | 
+| - | - | - |
+|[EmThreat](https://github.com/steelsleuth/EmThreat) | 8/19/2021| Planning 1.4 features (graphing) |
+
 ### 2021 Goals
 - [ ] Publish my 2nd video game game (You can find my 1st one, [Dragon Flapper](https://satireninja.itch.io/dragon-flapper), on itch.io)
 - [ ] Fully reverse engineer 1 malware family / maldoc.
 - [ ] Write an article on my experience with game development.
-- [ ] Update [EmThreat](https://github.com/steelsleuth/EmThreat) to 1.4.
+- [ ] Update EmThreat to 1.4.
 - [ ] Expand Allstar security.
 - [ ] Release demo of blue-team hiring site.
 
