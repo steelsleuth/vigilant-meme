@@ -50,7 +50,7 @@ When building out your resume, you should be able to skim it in under 30 seconds
 ### Example:
 
 > **Orcish Lounge Aviation** - *Security Analyst*
-> - Responsible for monitoring 40 embedded systems and 200 workstations at the SOC while. 
+> - Responsible for monitoring 40 embedded systems and 200 workstations at the SOC. 
 > - Handling ticket escalations by performing initial triage on alerts. 
 > - Working with supervisors to design security awareness training. 
 > - Created Powershell queries to detect SquirrelWaffle. 
