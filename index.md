@@ -8,7 +8,7 @@ I plan to reguarly publish articles on a variety of topics, primarily surroundin
 
 ### Current Learning List
 - [Security+](https://www.comptia.org/certifications/security)
-- [Malware Unicorn's Workshops](https://malwareunicorn.org/#/workshops)
+- [Video Game Writing: From Macro to Micro]
 - [Sebastian Lague's Game Devlopment tutorial](https://www.youtube.com/watch?v=_cCGBMmMOFw&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw&index=1)
 
 ### Current Development Checklist
