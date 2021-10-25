@@ -1,15 +1,13 @@
 ## Welcome to my Blog 🦆🖥️
 
-> [Resume Writing for Graduates](https://steelsleuth.github.io/vigilant-meme/Resume-Writing) is now published.
+> [Resume Writing for Graduates](https://steelsleuth.github.io/vigilant-meme/Resume-Writing) is now published. Will likely undergo a revision for easier reading.
 
-This is the personal blog of a security researcher who is fond of buying too many books. My views obviously are my own and do not reflect my company or any organization I could represent. 
-
-I plan to reguarly publish articles on a variety of topics, primarily surrounding content I am learning.
+This is my personal blog, focused on security/malware research and other topics. My views obviously are my own and do not reflect my company or any organization I could represent. This is mostly used to track what I am learning (game development, tools, books) and publish updates on software I work on.
 
 ### Current Learning List
 - [Security+](https://www.comptia.org/certifications/security)
-- [Video Game Writing: From Macro to Micro]
-- [Sebastian Lague's Game Devlopment tutorial](https://www.youtube.com/watch?v=_cCGBMmMOFw&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw&index=1)
+- Video Game Writing: From Macro to Micro (On Chapter 7)
+- [Practical Malware Analysis and Triage](https://academy.tcm-sec.com/p/practical-malware-analysis-triage)
 
 ### Current Development Checklist
 
@@ -24,6 +22,9 @@ I plan to reguarly publish articles on a variety of topics, primarily surroundin
 - [ ] Update EmThreat to 1.4.
 - [ ] Expand Allstar security.
 - [ ] Release demo of blue-team hiring site.
+
+### Finished
+- [x] [Sebastian Lague's Game Devlopment tutorial](https://www.youtube.com/watch?v=_cCGBMmMOFw&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw&index=1)
 
 ## Articles
 
