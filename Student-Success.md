@@ -31,3 +31,6 @@ If I was a junior looking for a plan to launch my career in 2 years, these are t
 5. Be consistent with learning while saving time for yourself.
 
 Overall, whatever path you pick is your own and it is up to you to mold a plan to your goals. Just keep it simple no matter what. For a bonus, [watch this video by Jonas Tyroller on productivity](https://www.youtube.com/watch?v=DlVkznQwtww). 
+
+
+## [Return to Blog](https://steelsleuth.github.io/vigilant-meme/)
