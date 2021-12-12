@@ -20,7 +20,7 @@ At a Hackathon I attended, two great students wrote a program to analyze news ar
 
 There are great ideas to be passionate about everywhere, but how can you reasonably approach this? The mistake I made was spending hours working on projects for short sprints. In reality, you need to spend just 15-30 minutes everyday slowly reviewing your code and researching. Consistency builds up over time. I’m currently doing a 30-day writing advent to slowly build up my writing skills each day! 
 
- ## Base your growth on a single project or topic, then nurture that over time
+## Base your growth on a single project or topic, then nurture that over time
 
 If I was a junior looking for a plan to launch my career in 2 years, these are the 5 steps I would take:
 
