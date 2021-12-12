@@ -1,13 +1,14 @@
 ## Welcome to my Blog 🦆🖥️
 
-> [Resume Writing for Graduates](https://steelsleuth.github.io/vigilant-meme/Resume-Writing) is now published. Will likely undergo a revision for easier reading.
+> [Achieving Success in Computer Science, Cybersecurity, and more](https://steelsleuth.github.io/vigilant-meme/Student-Success) is now published. Was your journey similar?
 
 This is my personal blog, focused on security/malware research and other topics. My views obviously are my own and do not reflect my company or any organization I could represent. This is mostly used to track what I am learning (game development, tools, books) and publish updates on software I work on.
 
 ### Current Learning List
-- [Security+](https://www.comptia.org/certifications/security)
-- Video Game Writing: From Macro to Micro (On Chapter 7)
-- [Practical Malware Analysis and Triage](https://academy.tcm-sec.com/p/practical-malware-analysis-triage)
+- 30 Days of Game and Narrative Design
+- Unreal Engine Course by GameDev.TV
+- Unreal Engine Multiplayer by GameDev.TV
+- Publishing something soon...
 
 ### Current Development Checklist
 
@@ -17,16 +18,18 @@ This is my personal blog, focused on security/malware research and other topics.
 
 ### 2021 Goals
 - [ ] Publish my 2nd video game game (You can find my 1st one, [Dragon Flapper](https://satireninja.itch.io/dragon-flapper), on itch.io)
-- [ ] Fully reverse engineer 1 malware family / maldoc.
 - [ ] Write an article on my experience with game development.
 - [ ] Update EmThreat to 1.4.
-- [ ] Expand Allstar security.
 - [ ] Release demo of blue-team hiring site.
 
 ### Finished
 - [x] [Sebastian Lague's Game Devlopment tutorial](https://www.youtube.com/watch?v=_cCGBMmMOFw&list=PLFt_AvWsXl0fnA91TcmkRyhhixX9CO3Lw&index=1)
+- [x] Video Game Writing: From Macro to Micro
+- [x] [Practical Malware Analysis and Triage](https://academy.tcm-sec.com/p/practical-malware-analysis-triage)
 
 ## Articles
+
+*12/12/2021* [Achieving Success in Computer Science, Cybersecurity, and more](https://steelsleuth.github.io/vigilant-meme/Student-Success)
 
 *9/19/2021* [Resume Writing for Graduates](https://steelsleuth.github.io/vigilant-meme/Resume-Writing)
 
