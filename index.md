@@ -2,12 +2,11 @@
 
 > [A Prickly Past Revisited: Cactus Con 9](https://steelsleuth.github.io/vigilant-meme/Cactus-Juice) is now published. A quick look at some resources!
 
-This is my personal blog, focused on security/malware research and other topics. My views obviously are my own and do not reflect my company or any organization I could represent. This is mostly used to track what I am learning (game development, tools, books) and publish updates on software I work on.
+This is my personal blog, focused on security/malware research and other topics. My views are my own and do not reflect my company. 
 
 ### Current Learning List
 - CompTIA SEC+ Course
 - Monthly Book list coming soon...
-- 
 
 ### Current Development Checklist
 
@@ -16,10 +15,11 @@ This is my personal blog, focused on security/malware research and other topics.
 |[EmThreat](https://github.com/steelsleuth/EmThreat) | 8/19/2021| Planning 1.4 features (graphing) |
 
 ### 2022 Goals
-- [ ] Publish my 2nd video game game (You can find my 1st one, [Dragon Flapper](https://satireninja.itch.io/dragon-flapper), on itch.io)
-- [ ] Write an article on my experience with game development.
+- [ ] Publish my 2nd video game game
 - [ ] Update EmThreat to 1.4.
-- [ ] Release demo of blue-team hiring site.
+- [ ] Release a blue-team hiring site demo.
+- [ ] Release a prototype of the card game, Monga.
+- [ ] Finish a novel.
 
 
 ## Articles
@@ -38,3 +38,6 @@ This is my personal blog, focused on security/malware research and other topics.
 
 *8/08/2021* [Organizing Bookmarks and Asking Questions](https://steelsleuth.github.io/vigilant-meme/Organizing-Bookmarks) 
 
+## Behind the Duck
+
+I go by QuackHack, an infosec persona used to channel my creative energy in an industry of endless knowledge and resources. I was first exposed to the industry in 2012 thanks to Cisco’s training program and attended my first conference in 2016. In 2020 I finally broke into the industry to study email-based threats. My interests are constantly changing, but I am passionate about penetration testing and am also interested in threat intelligence, hardware hacking, and looking deeper into IoT devices. I am currently pivoting into incident response and am excited to see what challenges this brings. 
