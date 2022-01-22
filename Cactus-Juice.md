@@ -1,3 +1,5 @@
+# A Prickly Past Revisited: Cactus Con 9
+
 As Cactus Con 10 approaches us (February 4 - 5) I thought it was best to revisit my notes from CC9 and highlight some of the most interesting tidbits of advice from the community. This is not a comprehensive list, but I will try to cover various topics geared towards beginners in the industry.
 
 ### Tech Learning
