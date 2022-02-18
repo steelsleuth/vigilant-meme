@@ -1,4 +1,4 @@
-# TA2541: From Tweet to Tactics
+# TA2541: From Tweets to Tactics
 
 Proofpoint has clustered together activity of various RATs targeting crucial industries since 2017. This threat actor, classified as TA2541, has several distinctive TTPs in their delivery methodology. Analysts sharing IoCs on Twitter have uncovered a string of AsyncRAT infections utilizing a new crypter called [“Snip3”](https://blog.morphisec.com/revealing-the-snip3-crypter-a-highly-evasive-rat-loader), which Proofpoint researchers have found TA2541 utilizing in their campaigns. We can retroactively go through these tags and identify any additional activity. 
 
