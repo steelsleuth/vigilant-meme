@@ -47,3 +47,5 @@ Your inventory would comprise of:
 5. And the classic https://jhalon.github.io/becoming-a-pentester/
 
 As you might notice, each of these links has various exercises or leads to other resources. Just these 5 areas quickly spiral out of control into an interweaving web of knowledge. The last one is definitely the ultimate primer on pen testing and sends you off into so many areas. I would ignore all the links and focus entirely on the written knowledge contained in it. When reading blog posts for any area of study, ignore the suggestions and links. Focus on that pure content until you understand it and can make your own choice about where to go with a sense of direction. 
+
+## [Return to Blog](https://steelsleuth.github.io/vigilant-meme/)
