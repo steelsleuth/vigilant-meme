@@ -7,7 +7,7 @@ Hunting through [Twitter for this tag](https://twitter.com/search?q=%23snip3&src
 
 The above Twitter link contains a VirusTotal query contained in multiple collections and graphs associated with it, giving some additional insight into the relations between infrastructure used. 
 
-Reviewing the emails released by Proofpoint, there is a clear pattern behind their design. The use of PDF/XLS icon’s linking to a legitimate business file name is distinct when combined with the RFQ / business lures and detailed emails. 
+Reviewing the emails released by Proofpoint, there is a clear pattern behind their design. The use of PDF/XLS icons linking to a legitimate business file name is distinct when combined with the RFQ / business lures and detailed emails. 
 
 While a breadth of RATs have been observed from this campaign by Proofpoint since 2017, AsyncRAT has been the dominant payload in 2021. In a common tactic seen by other email-based campaigns, TA2541 utilizes Google Drive URLs to download the VBS payloads. This is the first clear indicator to cut off their infection chain. 
 
