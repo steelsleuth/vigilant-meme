@@ -1,28 +1,23 @@
 ## Welcome to my Blog 🦆🖥️
 
-> [A Prickly Past Revisited: Cactus Con 9](https://steelsleuth.github.io/vigilant-meme/Cactus-Juice) is now published. A quick look at some resources!
+> [TA2541: From Tweets to Tactics](https://steelsleuth.github.io/vigilant-meme/AviationRAT) is now published.
 
-This is my personal blog, focused on security/malware research and other topics. My views are my own and do not reflect my company. 
+This is my personal blog, focused on cybersecurity and hobbies. My views are my own and do not reflect my company. 
 
-### Current Learning List
-- CompTIA SEC+ Course
-- Monthly Book list coming soon...
-
-### Current Development Checklist
-
-| Project | Last Update | Notes | 
-| - | - | - |
-|[EmThreat](https://github.com/steelsleuth/EmThreat) | 8/19/2021| Planning 1.4 features (graphing) |
-
-### 2022 Goals
-- [ ] Publish my 2nd video game game
-- [ ] Update EmThreat to 1.4.
-- [ ] Release a blue-team hiring site demo.
-- [ ] Release a prototype of the card game, Monga.
-- [ ] Finish a novel.
+### 2022 Feb-May Goals
+- [ ] Participate in Game Jam
+- [ ] Design a card game
+- [ ] Produce a youtube video
+- [ ] Finish 3 books
+- [ ] Update my home lab
+- [ ] Find a raspberry pi project to work on
+- [ ] Finish auditing MCSI courses
+- [ ] Write a short story
+- [ ] Take photos of space
 
 
 ## Articles
+*2/17/2022* [TA2541: From Tweets to Tactics](https://steelsleuth.github.io/vigilant-meme/AviationRAT)
 
 *1/22/2022* [A Prickly Past Revisited: Cactus Con 9](https://steelsleuth.github.io/vigilant-meme/Cactus-Juice)
 
