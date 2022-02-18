@@ -9,8 +9,8 @@ The above Twitter link contains a VirusTotal query contained in multiple collect
 
 Reviewing the emails released by Proofpoint, there is a clear pattern behind their design. The use of PDF/XLS icons linking to a legitimate business file name is distinct when combined with the RFQ / business lures and detailed emails. 
 
-While a breadth of RATs have been observed from this campaign by Proofpoint since 2017, AsyncRAT has been the dominant payload in 2021. In a common tactic seen by other email-based campaigns, TA2541 utilizes Google Drive URLs to download the VBS payloads. This is the first clear indicator to cut off their infection chain. 
+While a breadth of RATs have been observed from this campaign by Proofpoint since 2017, AsyncRAT has been the dominant payload in 2021. In a common tactic seen by other email-based campaigns, TA2541 utilizes Google Drive URLs to download the VBS payloads. This is the best indicator for analysts to build detections for to cut off their infection chain. 
 
-Now that analysts know what to hunt for, organizations can also double down their security training programs for these new threats.
+Now that analysts know what to hunt for, organizations can also double down their security training programs for these new threats. When someone comes asking for you to download strange files for quotes and other business needs, your inner alarm bell should be going off.
 
 ## [Return to Blog](https://steelsleuth.github.io/vigilant-meme/)
