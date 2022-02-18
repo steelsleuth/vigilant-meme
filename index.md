@@ -35,4 +35,6 @@ This is my personal blog, focused on cybersecurity and hobbies. My views are my 
 
 ## Behind the Duck
 
-I go by QuackHack, an infosec persona used to channel my creative energy in an industry of endless knowledge and resources. I was first exposed to the industry in 2012 thanks to Cisco’s training program and attended my first conference in 2016. In 2020 I finally broke into the industry to study email-based threats. My interests are constantly changing, but I am passionate about penetration testing and am also interested in threat intelligence, hardware hacking, and looking deeper into IoT devices. I am currently pivoting into incident response and am excited to see what challenges this brings. 
+I go by Quack_Hack, an infosec persona used to channel my creative energy in an industry of endless knowledge and resources. I was first exposed to the industry in 2012 thanks to Cisco’s training program and attended my first conference in 2016. In 2020 I finally broke into the industry to study email-based threats. My interests are constantly changing, but I am passionate about penetration testing and am also interested in threat intelligence, hardware hacking, and IoT devices. I am currently pivoting into incident response and am excited to see what challenges this brings. 
+
+My second passion is video game development and I would love to release more games and tell stories through code. This year I have several goals related to narrative design and will try to share my progress on a regular basis. 
