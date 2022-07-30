@@ -4,15 +4,10 @@
 
 This is my personal blog, focused on cybersecurity and hobbies. My views are my own and do not reflect my company. 
 
-### 2022 Feb-May Goals
-- [ ] Participate in Game Jam
+### 2022 Goals (4 remaining)
 - [ ] Design a card game
-- [ ] Produce a youtube video
-- [ ] Finish 3 books
 - [ ] Update my home lab
 - [ ] Find a raspberry pi project to work on
-- [ ] Finish auditing MCSI courses
-- [ ] Write a short story
 - [ ] Take photos of space
 
 
